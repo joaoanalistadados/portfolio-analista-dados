@@ -1,2 +1,3 @@
 # portfolio-analista-dados
-Portfolio Analista Dados
+## Portfolio Analista Dados <h2>
+### <img width="906" height="496" alt="Image" src="https://github.com/user-attachments/assets/249be62e-33e0-436f-aa31-4f28e001eecb" />
