@@ -66,11 +66,12 @@ Profissional com experiência em:
 ## 💰 Dashboard Financeiro
 
 ### Indicadores:
-- Fluxo de Caixa
 - Receitas
+- Custos
 - Despesas
 - Lucro Líquido
 - KPIs Financeiros
+- Fluxo de Caixa
 
 ### Tecnologias:
 - Power BI
