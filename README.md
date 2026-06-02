@@ -78,6 +78,9 @@ Profissional com experiência em:
 - SQL
 
 ![Dashboard Financeiro](imagens/dashboard-financeiro.png)
+<img width="888" height="463" alt="DashboardFinanceiroGeral" src="https://github.com/user-attachments/assets/fa8f26fc-95cf-466e-b5b6-7eaf77290291" />
+<img width="886" height="483" alt="DashboardFinanceiroFluxoCaixa" src="https://github.com/user-attachments/assets/8c56d094-cebf-4692-a56d-0191cc2c57eb" />
+
 
 ---
 
