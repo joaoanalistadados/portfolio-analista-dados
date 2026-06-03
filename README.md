@@ -17,11 +17,6 @@ Profissional com experiência em:
 ---
 
 # 📊 Projetos em Destaque
-## Tecnologias:
-- Power BI
-- DAX
-- SQL Server
----
 
 ---
 ## 📈 Dashboard SAC - Serviço de Apoio ao Cliente
@@ -36,10 +31,14 @@ Profissional com experiência em:
 - Total Atedimentos por Problema
 - Tempo Médio Atendimento por Ano e Mês
 - Total Atedimentos por Nome Atendente
+### Tecnologias:
+- Power BI
+- DAX
+- SQL Server
 
-![Dashboard SAC](imagens/dashboard_sac.png)
-<img width="754" height="424" alt="dashboard_sac" src="https://github.com/user-attachments/assets/a7d0197a-8281-4c58-a682-a479dfa0cd58" />
+<img width="688" height="384" alt="dashboard-sac" src="https://github.com/user-attachments/assets/0803a029-f3d7-4d5f-90d9-16bcd657db31" />
 
+---
 
 ## 📈 Dashboard Comercial
 
@@ -57,8 +56,8 @@ Profissional com experiência em:
 - DAX
 - SQL Server
 
-![Dashboard Comercial](imagens/dashboard-comercial.png)
-#### <img width="906" height="496" alt="Image" src="https://github.com/user-attachments/assets/249be62e-33e0-436f-aa31-4f28e001eecb" />
+<img width="844" height="466" alt="dashboard-comercial" src="https://github.com/user-attachments/assets/e4509c01-31d4-4436-9b3c-bdf9aad560af" />
+
 ---
 
 ## 💰 Dashboard Financeiro
@@ -76,9 +75,14 @@ Profissional com experiência em:
 - Excel
 - SQL
 
-![Dashboard Financeiro](imagens/dashboard-financeiro.png)
-<img width="888" height="463" alt="DashboardFinanceiroGeral" src="https://github.com/user-attachments/assets/fa8f26fc-95cf-466e-b5b6-7eaf77290291" />
-<img width="886" height="483" alt="DashboardFinanceiroFluxoCaixa" src="https://github.com/user-attachments/assets/8c56d094-cebf-4692-a56d-0191cc2c57eb" />
+Geral
+
+<img width="849" height="446" alt="Dashboard-Financeiro-Geral" src="https://github.com/user-attachments/assets/0019cd8d-ff9c-4617-adff-edc963e74261" />
+
+Fluxo de Caixa
+
+<img width="816" height="449" alt="Dashboard-Financeiro-Fluxo-Caixa" src="https://github.com/user-attachments/assets/9e8ac23a-e73f-41c7-a80f-ebf6fb5a4299" />
+
 
 
 ---
@@ -97,7 +101,18 @@ Profissional com experiência em:
 - Excel
 - SQL Server
 
-![Dashboard RH](imagens/dashboard-rh.png)
+Colaboradores
+
+<img width="845" height="462" alt="dashboard-rh-colaboradores" src="https://github.com/user-attachments/assets/9679df81-8f08-4232-8404-4c70b3b02169" />
+
+Bem Estar
+
+<img width="846" height="467" alt="dashboard-rh-bemestar" src="https://github.com/user-attachments/assets/c9e8cf4e-01bf-4705-9c98-a8a4bbfa077a" />
+
+Financeiro
+
+<img width="852" height="463" alt="dashboard-rh-financeiro" src="https://github.com/user-attachments/assets/8b850d15-41c7-4c28-891f-2644ce9ef8cc" />
+
 
 ---
 
@@ -106,7 +121,7 @@ Profissional com experiência em:
 | Tecnologia | Nível |
 |---|---|
 | SQL Server | Avançado |
-[ SSIS - SQL Server Integration Services| Avançado |
+| SSIS - SQL Server Integration Services| Avançado |
 | Power BI | Avançado |
 | Excel | Avançado |
 | Python | Intermediário |
