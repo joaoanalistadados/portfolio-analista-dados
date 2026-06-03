@@ -164,8 +164,8 @@ docs/
 
 # 📬 Contato
 
-- LinkedIn: https://linkedin.com
-- GitHub: https://github.com
+- LinkedIn: https://www.linkedin.com/in/joão-cruz-79837722/
+- GitHub: https://github.com](https://github.com/joaoanalistadados)
 - E-mail: seuemail@email.com
 
 ---
