@@ -159,6 +159,8 @@ docs/
 # 📄 Currículo
 
 ![Baixar Currículo](curriculo/AnalistaDadios_ João Cruz.pdf)
+
+
 ![Dashboard RH](imagens/dashboard-rh.png)
 ---
 
