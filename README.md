@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Server-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
-() [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados) 
+ [![github portfolio-analista-dados](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
 ---
 
 # portfolio-analista-dados <h1>
