@@ -1,4 +1,9 @@
+# [![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![Focus](https://img.shields.io/badge/Foco-IA%20%7C%20IA%20Generativa-purple.svg)]() [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+---
+
 # portfolio-analista-dados <h1>
+# ♥
 
 # 🚀 Portfólio — João Cruz
 
@@ -15,6 +20,15 @@ Profissional com experiência em:
 - Automação de Processos
 - Robos
 ---
+<p align="left">
+  <a href ="https://victoriavirtual.com.br/lojavirtual/">
+    <img
+      alt="Acesse o site"
+      title="Acesse o site"
+      src="https://victoriavirtual.com.br/lojavirtual"
+    />
+  </a> 
+</p>
 
 # 📊 Projetos em Destaque
 
