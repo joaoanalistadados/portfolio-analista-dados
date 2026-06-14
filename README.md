@@ -1,5 +1,9 @@
 # [![author](https://victoriavirtual.com.br/lojavirtual)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![Focus](https://img.shields.io/badge/Foco-IA%20%7C%20IA%20Generativa-purple.svg)]() [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+![SQL](https://img.shields.io/badge/SQL-Server-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
+() [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados) 
 ---
 
 # portfolio-analista-dados <h1>
