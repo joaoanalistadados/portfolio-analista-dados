@@ -14,6 +14,7 @@
 # 🚀 Portfólio — João Cruz
 
 **Contatos**
+# Visite o site do [Google](https://www.google.com) <h3>
 
 * [Curriculo](https://github.com/joaoanalistadados/portfolio-analista-dados/blob/main/AnalistaDadios_%20Jo%C3%A3o%20Cruz.pdf)
 
