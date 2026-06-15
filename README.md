@@ -13,7 +13,15 @@
 
 # Visite o nosso site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
 
-## 👨‍💻 Analista de Dados | SQL | Power BI | Python | Excel
+📁 Portfolio Analista de Dados
+ ├── 📊 Dashboard Power BI
+ ├── 🛢️ SQL Scripts
+ ├── 📈 Excel
+ ├── 🐍 Python
+ ├── 📄 Currículo
+ └── 📷 Screenshots
+ 
+##  📁 Analista de Dados | 🛢️ SQL | 📊 Power BI | 🐍 Python | 📈 Excel
 
 Profissional com experiência em:
 - Análise de Dados
