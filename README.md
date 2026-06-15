@@ -1,11 +1,10 @@
-# [![author](https://victoriavirtual.com.br/lojavirtual)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![Focus](https://img.shields.io/badge/Foco-IA%20%7C%20IA%20Generativa-purple.svg)]() [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-![Site victoriavirtualcombr](https://img.shields.io/badge/%5Bsite%20victoriavirtualcombr%5D%20-%20%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fsite-victoriavirtualcombr-blue?style=flat&logoColor=%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fsite-victoriavirtualcombr-blue&link=%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fsite-victoriavirtualcombr-blue)
+
 
 ![SQL](https://img.shields.io/badge/SQL-Server-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
-[![github portfolio-analista-dados](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
+[![github portfolio-analista-dados](https://img.shields.io/badge/Language-Python|R-green.svg)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
 ---
 
 # portfolio-analista-dados <h1>
@@ -13,12 +12,7 @@
 
 # 🚀 Portfólio — João Cruz
 
-**Contatos**
-# Visite o site do [Victoria Virtual](https://victoriavirtual.com.br/lojavirtual/) <h3>
-
-* [Curriculo](https://github.com/joaoanalistadados/portfolio-analista-dados/blob/main/AnalistaDadios_%20Jo%C3%A3o%20Cruz.pdf)
-
-* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-cruz-79837722/)
+# Visite o site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
 
 ## 👨‍💻 Analista de Dados | SQL | Power BI | Python | Excel
 
