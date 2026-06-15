@@ -186,7 +186,7 @@ docs/
 
 - LinkedIn: https://www.linkedin.com/in/joão-cruz-79837722/
 - GitHub: https://github.com](https://github.com/joaoanalistadados)
-- E-mail: joao.rotas@rotaservicos.com.br
+- E-mail: joao.cruz@victoriavirtual.com.br
 
 ---
 
