@@ -1,10 +1,9 @@
 
 
-
 ![SQL](https://img.shields.io/badge/SQL-Server-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
-[![github portfolio-analista-dados](https://img.shields.io/badge/Language-Python|R-green.svg)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
+[![github portfolio-analista-dados](https://img.shields.io/badge/Language-Python|R-orange.svg)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
 ---
 
 # portfolio-analista-dados <h1>
@@ -12,7 +11,7 @@
 
 # 🚀 Portfólio — João Cruz
 
-# Visite o site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
+# Visite o nosso site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
 
 ## 👨‍💻 Analista de Dados | SQL | Power BI | Python | Excel
 
