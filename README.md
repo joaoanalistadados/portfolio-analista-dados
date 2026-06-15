@@ -15,7 +15,7 @@
 
 **Contatos**
 
-* [Curriculo](AnalistaDadios_ João Cruz.pdf)
+* [Curriculo](https://github.com/joaoanalistadados/portfolio-analista-dados/blob/main/AnalistaDadios_%20Jo%C3%A3o%20Cruz.pdf)
 
 * [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-cruz-79837722/)
 
