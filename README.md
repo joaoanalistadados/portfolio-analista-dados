@@ -161,6 +161,7 @@ docs/
 - Dashboards Executivos
 - Análise Financeira
 - Automação de Relatórios
+- Desenvolvimento e Analise de Sistemas (Delphi, C#, AspNet, PHP, Html, Python, Node)
 
 ---
 
