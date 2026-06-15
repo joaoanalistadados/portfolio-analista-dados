@@ -21,16 +21,8 @@ Profissional com experiência em:
 - Integração de Sistemas
 - Automação de Processos
 - Robos
+  
 ---
-<p align="left">
-  <a href ="https://victoriavirtual.com.br/lojavirtual/">
-    <img
-      alt="Acesse o site"
-      title="Acesse o site"
-      src="https://victoriavirtual.com.br/lojavirtual"
-    />
-  </a> 
-</p>
 
 # 📊 Projetos em Destaque
 
