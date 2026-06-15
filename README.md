@@ -193,4 +193,3 @@ docs/
 # ⭐ Objetivo
 
 Demonstrar habilidades técnicas em análise de dados, BI e analista e desenvolvimento de soluções corporativas.
-![alt text](image.png)
