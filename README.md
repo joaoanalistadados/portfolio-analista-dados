@@ -182,12 +182,10 @@ docs/
 
 ---
 
-# 📄 Currículo
+# 📄 **Currículo**
 
+* [Curriculo](https://github.com/joaoanalistadados/portfolio-analista-dados/blob/main/AnalistaDadios_%20Jo%C3%A3o%20Cruz.pdf)
 
-![Baixar Currículo](curriculo/AnalistaDadios_ João Cruz.pdf)
-
-![Dashboard RH](imagens/dashboard-rh.png)
 ---
 
 # 📬 Contato
