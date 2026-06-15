@@ -14,8 +14,8 @@
 # 🚀 Portfólio — João Cruz
 
 ##Contatos##
-[Currículo](AnalistaDadios_ João Cruz.pdf)
-[LinkedIn]()
+#[Currículo](AnalistaDadios_ João Cruz.pdf)
+#[LinkedIn]()
 
 ## 👨‍💻 Analista de Dados | SQL | Power BI | Python | Excel
 
