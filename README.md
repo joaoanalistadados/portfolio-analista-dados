@@ -163,8 +163,76 @@ docs/
 - Análise Financeira
 - Automação de Relatórios
 - Desenvolvimento e Analise de Sistemas (Delphi, C#, AspNet, PHP, Html, Python, Node)
+---
+
+🗄️ Banco de Dados SQL Server
+
+Tabela Clientes
+
+CREATE TABLE Clientes (
+    IdCliente INT PRIMARY KEY,
+    Nome VARCHAR(100),
+    Cidade VARCHAR(50),
+    Estado VARCHAR(2)
+);
+
+Tabela Produtos
+
+CREATE TABLE Produtos (
+    IdProduto INT PRIMARY KEY,
+    Produto VARCHAR(100),
+    Categoria VARCHAR(50),
+    Preco DECIMAL(10,2)
+);
+
+Tabela Vendas
+
+CREATE TABLE Vendas (
+    IdVenda INT PRIMARY KEY,
+    DataVenda DATE,
+    IdCliente INT,
+    IdProduto INT,
+    Quantidade INT,
+    ValorTotal DECIMAL(10,2)
+);
+📈 Consultas SQL
+
+Total de Vendas
+
+SELECT
+    SUM(ValorTotal) AS ReceitaTotal
+FROM Vendas;
+Top 10 Produtos
+SELECT TOP 10
+    p.Produto,
+    SUM(v.ValorTotal) Receita
+FROM Vendas v
+INNER JOIN Produtos p
+ON v.IdProduto = p.IdProduto
+GROUP BY p.Produto
+ORDER BY Receita DESC;
+Receita por Estado
+SELECT
+    c.Estado,
+    SUM(v.ValorTotal) Receita
+FROM Vendas v
+INNER JOIN Clientes c
+ON v.IdCliente = c.IdCliente
+GROUP BY c.Estado
+ORDER BY Receita DESC;
+Evolução Mensal
+SELECT
+    YEAR(DataVenda) Ano,
+    MONTH(DataVenda) Mes,
+    SUM(ValorTotal) Receita
+FROM Vendas
+GROUP BY
+    YEAR(DataVenda),
+    MONTH(DataVenda)
+ORDER BY Ano, Mes;
 
 ---
+
 # 🧠 Medidas DAX
 
 💰 Receita Total
