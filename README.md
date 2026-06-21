@@ -165,6 +165,53 @@ docs/
 - Desenvolvimento e Analise de Sistemas (Delphi, C#, AspNet, PHP, Html, Python, Node)
 
 ---
+# 🧠 3. Medidas DAX
+
+💰 Receita Total
+
+Receita Total = SUM(F_Vendas[Valor])
+
+📦 Total de Vendas
+
+Total Vendas = COUNTROWS(F_Vendas)
+
+👥 Total de Clientes
+
+Total Clientes = DISTINCTCOUNT(F_Vendas[ID_Cliente])
+📈 Ticket Médio
+Ticket Médio = DIVIDE([Receita Total], [Total Vendas])
+
+📊 Receita por Mês
+
+Receita Mês = 
+CALCULATE(
+    [Receita Total],
+    ALLEXCEPT(D_Calendario, D_Calendario[Ano], D_Calendario[Mês])
+)
+
+📉 Crescimento (%)
+
+Crescimento % = 
+VAR Atual = [Receita Total]
+VAR Anterior =
+    CALCULATE(
+        [Receita Total],
+        DATEADD(D_Calendario[Data], -1, MONTH)
+    )
+RETURN
+DIVIDE(Atual - Anterior, Anterior)
+
+🏆 Top Produto
+
+Ranking Produto = 
+RANKX(
+    ALL(D_Produtos[Produto]),
+    [Receita Total],
+    ,
+    DESC
+)
+
+---
 
 # 📄 **Currículo**
 
