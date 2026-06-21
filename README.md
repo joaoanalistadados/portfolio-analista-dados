@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
 [![github portfolio-analista-dados](https://img.shields.io/badge/Language-Python|R-orange.svg)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
 ---
-# portfolio-analista-dados <h1>
 <img width="736" height="224" alt="LogoMarca_InforBusiness5 " src="https://github.com/user-attachments/assets/c2cd63b0-46cc-47c0-a114-627ce4b1c22d" />
 
 # 🚀 Portfólio — João Cruz
