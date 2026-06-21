@@ -211,6 +211,8 @@ CREATE TABLE Vendas (
 
 Total de Vendas
 
+---
+
 SELECT
     SUM(ValorTotal) AS ReceitaTotal
 FROM Vendas;
