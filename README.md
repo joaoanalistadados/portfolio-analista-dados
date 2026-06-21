@@ -163,11 +163,13 @@ docs/
 - Análise Financeira
 - Automação de Relatórios
 - Desenvolvimento e Analise de Sistemas (Delphi, C#, AspNet, PHP, Html, Python, Node)
+  
 ---
 
-🗄️ Banco de Dados SQL Server
+# 🗄️ Banco de Dados SQL Server
 
 Tabela Clientes
+---
 
 CREATE TABLE Clientes (
     IdCliente INT PRIMARY KEY,
@@ -176,7 +178,11 @@ CREATE TABLE Clientes (
     Estado VARCHAR(2)
 );
 
+
+
 Tabela Produtos
+
+---
 
 CREATE TABLE Produtos (
     IdProduto INT PRIMARY KEY,
@@ -185,7 +191,10 @@ CREATE TABLE Produtos (
     Preco DECIMAL(10,2)
 );
 
+
 Tabela Vendas
+
+---
 
 CREATE TABLE Vendas (
     IdVenda INT PRIMARY KEY,
@@ -195,7 +204,10 @@ CREATE TABLE Vendas (
     Quantidade INT,
     ValorTotal DECIMAL(10,2)
 );
-📈 Consultas SQL
+
+---
+
+# 📈 Consultas SQL
 
 Total de Vendas
 
